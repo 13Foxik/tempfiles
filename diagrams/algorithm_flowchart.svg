@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1700" width="2400" height="1700" font-family="'Noto Sans','PT Sans','Segoe UI',Arial,sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+      <path d="M0,0 L12,6 L0,12 z" fill="#144F35"/>
+    </marker>
+  </defs>
+  <rect width="2400" height="1700" fill="#FFFFFF"/>
+  <ellipse cx="1200" cy="65" rx="120" ry="35" fill="#E8F5EE" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1200" y="72.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Начало</text>
+  <rect x="930" y="130" width="540" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1200" y="166.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Запуск приложения и подключение</text>
+  <text x="1200" y="198.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">к Cloud Firestore</text>
+  <polygon points="1200,260 1410,335 1200,410 990,335" fill="#FFF6DC" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1200" y="326.6" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Пользователь</text>
+  <text x="1200" y="358.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">авторизован?</text>
+  <rect x="50" y="290" width="460" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="280" y="326.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Отображение экрана</text>
+  <text x="280" y="358.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">регистрации и авторизации</text>
+  <rect x="50" y="410" width="460" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="280" y="446.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Ввод адреса электронной</text>
+  <text x="280" y="478.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">почты и пароля</text>
+  <polygon points="280,540 470,610 280,680 90,610" fill="#FFF6DC" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="280" y="601.6" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Авторизация</text>
+  <text x="280" y="633.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">успешна?</text>
+  <polygon points="616,565 910,565 884,655 590,655" fill="#FDECEC" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="750" y="601.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Сообщение об ошибке</text>
+  <text x="750" y="633.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">авторизации</text>
+  <rect x="900" y="720" width="600" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1200" y="756.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Загрузка сведений о пользователе</text>
+  <text x="1200" y="788.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">из Cloud Firestore</text>
+  <polygon points="1200,850 1440,925 1200,1000 960,925" fill="#FFF6DC" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1200" y="916.6" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Принадлежит</text>
+  <text x="1200" y="948.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">к семейной группе?</text>
+  <polygon points="1900,850 2090,925 1900,1000 1710,925" fill="#FFF6DC" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1900" y="916.6" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Действие</text>
+  <text x="1900" y="948.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">пользователя?</text>
+  <rect x="1470" y="1030" width="460" height="130" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1700" y="1070.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Создание семейной группы,</text>
+  <text x="1700" y="1102.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">генерация идентификатора,</text>
+  <text x="1700" y="1134.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">назначение роли «администратор»</text>
+  <rect x="1950" y="1030" width="340" height="80" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="2120" y="1061.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Ввод идентификатора</text>
+  <text x="2120" y="1093.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">семейной группы</text>
+  <rect x="1950" y="1130" width="340" height="80" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="2120" y="1161.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Формирование заявки на</text>
+  <text x="2120" y="1193.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">вступление и ожидание принятия</text>
+  <rect x="1950" y="1230" width="340" height="80" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="2120" y="1261.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Назначение пользователю</text>
+  <text x="2120" y="1293.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">роли «участник»</text>
+  <rect x="910" y="1340" width="580" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1200" y="1376.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Загрузка структуры меню</text>
+  <text x="1200" y="1408.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">(категорий, подкатегорий, блюд)</text>
+  <rect x="200" y="1490" width="360" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="380" y="1526.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Отображение</text>
+  <text x="380" y="1558.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">главного экрана</text>
+  <rect x="620" y="1490" width="400" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="820" y="1526.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Выполнение выбранного</text>
+  <text x="820" y="1558.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">сценария взаимодействия</text>
+  <rect x="1060" y="1490" width="400" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1260" y="1526.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Обновление сведений</text>
+  <text x="1260" y="1558.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">в Cloud Firestore</text>
+  <polygon points="1700,1465 1860,1535 1700,1605 1540,1535" fill="#FFF6DC" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="1700" y="1526.6" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Продолжить</text>
+  <text x="1700" y="1558.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">работу?</text>
+  <rect x="1920" y="1490" width="360" height="90" rx="8" ry="8" fill="#FFFFFF" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="2100" y="1526.6" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Завершение работы</text>
+  <text x="2100" y="1558.5" font-size="22" font-weight="normal" fill="#1A1A1A" text-anchor="middle">приложения</text>
+  <ellipse cx="2100" cy="1640" rx="120" ry="35" fill="#E8F5EE" stroke="#1F744D" stroke-width="2.5"/>
+  <text x="2100" y="1647.5" font-size="22" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Конец</text>
+  <line x1="1200" y1="100" x2="1200" y2="130" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1200" y1="220" x2="1200" y2="260" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="990" y1="335" x2="510" y2="335" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="726.6" y="303.9" width="46.8" height="27.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="750" y="321" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Нет</text>
+  <line x1="1200" y1="410" x2="1200" y2="720" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1197.4" y="544.9" width="37.1" height="30.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="1216" y="565" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Да</text>
+  <line x1="280" y1="380" x2="280" y2="410" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="280" y1="500" x2="280" y2="540" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="470" y1="610" x2="603" y2="610" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="512.6" y="578.9" width="46.8" height="27.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="536" y="596" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Нет</text>
+  <line x1="750" y1="565" x2="750" y2="395" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="750" y1="395" x2="280" y2="395" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="280" y1="395" x2="280" y2="410" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="280" y1="680" x2="280" y2="765" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="280" y1="765" x2="900" y2="765" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="275.4" y="677.9" width="37.1" height="30.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="294" y="698" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Да</text>
+  <line x1="1200" y1="810" x2="1200" y2="850" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1440" y1="925" x2="1710" y2="925" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1551.6" y="893.9" width="46.8" height="27.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="1575" y="911" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Нет</text>
+  <line x1="1200" y1="1000" x2="1200" y2="1340" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1195.4" y="997.9" width="37.1" height="30.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="1214" y="1018" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Да</text>
+  <line x1="1900" y1="1000" x2="1900" y2="1010" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="1900" y1="1010" x2="1700" y2="1010" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="1700" y1="1010" x2="1700" y2="1030" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1745.8" y="983.1" width="108.3" height="29.9" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="1800" y="1003" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Создание</text>
+  <line x1="1900" y1="1000" x2="1900" y2="1010" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="1900" y1="1010" x2="2120" y2="1010" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="2120" y1="1010" x2="2120" y2="1030" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1945.8" y="981.3" width="128.4" height="31.7" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="2010" y="1003" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Вступление</text>
+  <line x1="2120" y1="1110" x2="2120" y2="1130" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="2120" y1="1210" x2="2120" y2="1230" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1700" y1="1160" x2="1700" y2="1385" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="1700" y1="1385" x2="1490" y2="1385" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="2120" y1="1310" x2="2120" y2="1385" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="2120" y1="1385" x2="1490" y2="1385" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1200" y1="1430" x2="1200" y2="1460" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="1200" y1="1460" x2="380" y2="1460" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="380" y1="1460" x2="380" y2="1490" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="560" y1="1535" x2="620" y2="1535" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1020" y1="1535" x2="1060" y2="1535" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1460" y1="1535" x2="1540" y2="1535" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="1700" y1="1465" x2="1700" y2="1440" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="1700" y1="1440" x2="380" y2="1440" stroke="#144F35" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="380" y1="1440" x2="380" y2="1490" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1695.4" y="1462.9" width="37.1" height="30.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="1714" y="1483" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Да</text>
+  <line x1="1860" y1="1535" x2="1920" y2="1535" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="1866.6" y="1505.9" width="46.8" height="27.1" rx="6" ry="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="1890" y="1523" font-size="20" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Нет</text>
+  <line x1="2100" y1="1580" x2="2100" y2="1605" stroke="#144F35" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>
